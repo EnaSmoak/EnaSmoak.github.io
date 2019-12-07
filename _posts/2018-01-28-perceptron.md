@@ -3,8 +3,8 @@ title: "Data Wrangling Project"
 date: 2018-01-28
 tags: [data wrangling, data science, messy data]
 header:
-  image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+  image: "/images/perceptron/background1.jpg"
+excerpt: "Data Manipulation,Web Scraping, Stream Processing, Data Mining"
 mathjax: "true"
 ---
 
@@ -16,23 +16,28 @@ mathjax: "true"
 
 Here's some basic text.
 
-And here's some *italics*
+And here's some _italics_
 
 Here's some **bold** text.
 
 What about a [link](https://github.com/dataoptimal)?
 
 Here's a bulleted list:
-* First item
-+ Second item
+
+- First item
+
+* Second item
+
 - Third item
 
 Here's a numbered list:
+
 1. First
 2. Second
 3. Third
 
 Python code block:
+
 ```python
     import numpy as np
 
@@ -42,6 +47,7 @@ Python code block:
 ```
 
 R code block:
+
 ```r
 library(tidyverse)
 df <- read_csv("some_file.csv")
