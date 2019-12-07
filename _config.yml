@@ -9,13 +9,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gifty Senam Dovie"
+title                    : "Richmond Chris-Koka"
 title_separator          : "-"
-name                     : "Gifty Senam Dovie"
-description              : "Data Engineering Portfolio"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Richmond Chris-Koka"
+description              : "Data Science Portfolio"
+url                      : "https://rchriskoka.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "rchriskoka/Data-Engineering-Blossom/"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -61,7 +61,7 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
+twitter: 
   username               :
 facebook:
   username               :
@@ -84,11 +84,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gifty Senam Dovie"
-  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Engineering Portfolio"
+  name             : "Richmond Chris-Koka"
+  avatar           : "/images/Richmond.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Data Engineer | Machine Learning Software Engineer | Python Programmer | Thinker | Researcher | Leader | Christian "
   location         : "Accra, Ghana"
-  email            :
+  email            : "rchriskoka@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -97,15 +97,16 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/EnaSmoak"
+  github           : "https://www.github.com/rchriskoka"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/gifty-senam-dovie/""
+  linkedin         : "https://www.linkedin.com/rchriskoka" 
+  pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/11460536/gifty-dovie"
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   twitter          :
