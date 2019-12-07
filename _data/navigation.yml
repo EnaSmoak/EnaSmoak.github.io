@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Data Engineering Projects"
-    url: /_posts/2018-01-28-perceptron.md/
+    url: /perceptron/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
