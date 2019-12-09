@@ -1,10 +1,10 @@
 ---
-title: "Data Engineering Project"
+title: "Data Engineering Projects"
 date: 2018-01-28
 tags: [data engineering, data science, clean messy data]
 header:
-  image: "/images/perceptron/background1.jpg"
-excerpt: "Data Manipulation,Web Scraping, Stream Processing, Data Mining"
+  image: "/images/back.jpeg"
+excerpt: "Data Manipulation, Web Scraping, Stream Processing, Data Mining"
 mathjax: "true"
 ---
 
