@@ -4,7 +4,7 @@ date: 2018-01-28
 tags: [data engineering, data science, clean messy data]
 header:
   image: "/images/perceptron/background2.jpg"
-excerpt: "Data Manipulation | Web Scraping | Stream Processing | Data Mining"
+excerpt: "Data Manipulation, Web Scraping, Stream Processing, Data Mining"
 mathjax: "true"
 ---
 
