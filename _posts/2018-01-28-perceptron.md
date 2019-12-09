@@ -1,5 +1,5 @@
 ---
-title: "Data Engineering Projects"
+title: " "
 date: 2018-01-28
 tags: [ETL Pipline, Stream Processing, Data Mining, Web Scraping]
 header:
