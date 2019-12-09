@@ -8,8 +8,6 @@ excerpt: "Data Manipulation, Web Scraping, Stream Processing, Data Mining"
 mathjax: "true"
 ---
 
-# Data Engineering Projects
-
 ## Stream Processing
 
 The aim of this project is to enrich a Kinesis data stream with external dataset.
@@ -148,63 +146,29 @@ the aim of this project is to process batch for data mining by:
 
     #download dataset from s3 bucket
     s3_client.download_file(bucket, "fileName", 'pathToSaveFile')
+
     spark = SparkSession.builder.getOrCreate()
 ```
 
 [View source](https://github.com/EnaSmoak/batch_processing)
 
-### H3 Heading
+## Read and convert data file format
 
-Here's some basic text.
+A python script that uses **pandas** to read data from csv files, filter columns and convert to other file formats.
 
-And here's some _italics_
+### Configuration
 
-Here's some **bold** text.
-
-What about a [link](https://github.com/dataoptimal)?
-
-Here's a bulleted list:
-
-- First item
-
-* Second item
-
-- Third item
-
-Here's a numbered list:
-
-1. First
-2. Second
-3. Third
-
-Python code block:
+- Pandas
+- Fastparquet
+- Pandavro
+- Boto3
 
 ```python
+    import boto3
     import numpy as np
-
-    def test_function(x, y):
-      z = np.sum(x,y)
-      return z
+    import pandas as pd
+    import fastparquet
+    import pandavro as pdx
 ```
 
-R code block:
-
-```r
-library(tidyverse)
-df <- read_csv("some_file.csv")
-head(df)
-```
-
-Here's some inline code `x+y`.
-
-Here's an image:
-<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">
-
-Here's another image using Kramdown:
-![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
-
-Here's some math:
-
-$$z=x+y$$
-
-You can also put it inline $$z=x+y$$
+[View source](https://github.com/EnaSmoak/read-and-convert-with-pandas)
