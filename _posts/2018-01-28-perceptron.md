@@ -5,7 +5,7 @@ tags: [data engineering, data science, clean messy data]
 header:
   image: "/images/perceptron/project2.jpg"
 excerpt: "Data Manipulation, Web Scraping, Stream Processing, Data Mining"
-mathjax: "false"
+mathjax: "true"
 ---
 
 # H1 Heading
