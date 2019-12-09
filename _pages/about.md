@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/banners/background4.jpg"
+  image: "/images/banners/batchprocess1.jpg"
 ---
 
 I'm a Junior Data Scientist with experience in data processing, exploratory analysis, data visualizations and machine learning fundamentals.
