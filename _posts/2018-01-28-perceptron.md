@@ -1,7 +1,7 @@
 ---
-title: "Data Wrangling Project"
+title: "Data Engineering Project"
 date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+tags: [data engineering, data science, clean messy data]
 header:
   image: "/images/perceptron/background1.jpg"
 excerpt: "Data Manipulation,Web Scraping, Stream Processing, Data Mining"
