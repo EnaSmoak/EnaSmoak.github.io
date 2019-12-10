@@ -1,9 +1,5 @@
----
-layout: archive
----
-
-{{ content }} {% assign postsByYear = site.posts | group_by_exp: 'post',
-'post.date | date: "%Y"' %} {% for year in postsByYear %}
+--- layout: archive --- {{ content }} {% assign postsByYear = site.posts |
+group_by_exp: 'post', 'post.date | date: "%Y"' %} {% for year in postsByYear %}
 <section id="{{ year.name }}" class="taxonomy__section">
   <h2 class="archive__subtitle">{{ year.name }}</h2>
   <div class="entries-{{ page.entries_layout | default: 'list' }}">
@@ -15,3 +11,4 @@ layout: archive
     &uarr;</a
   >
 </section>
+{% endfor %}
